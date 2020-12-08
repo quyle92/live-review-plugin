@@ -1,0 +1,23 @@
+small.field-msg.error{
+	color:red;
+	display:none;
+}
+
+small.[class^="js-form-"]{
+	display:none;
+
+}
+
+.field-msg.js-form-submission{
+	display:none;
+}
+
+.field-msg.success.js-form-success{
+	display:none;
+	color:green;
+
+}
+
+.show{
+	display:block!important;
+}
